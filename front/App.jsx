@@ -1,3 +1,7 @@
 export default function App() {
-  return <div>HOLA</div>;
+  return (
+    <div>
+      <p>Prueba nueva rama</p>
+    </div>
+  );
 }
